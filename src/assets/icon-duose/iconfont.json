@@ -1,0 +1,170 @@
+{
+  "id": "2242301",
+  "name": "产线总控-多色图标（全）",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2295969",
+      "name": "png",
+      "font_class": "png",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2295970",
+      "name": "psd",
+      "font_class": "psd",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2295971",
+      "name": "txt",
+      "font_class": "txt",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2295972",
+      "name": "ppt",
+      "font_class": "ppt",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2295973",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2295974",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2295975",
+      "name": "white",
+      "font_class": "white",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2295978",
+      "name": "zip",
+      "font_class": "zip",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2295980",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "2295981",
+      "name": "folder-group",
+      "font_class": "folder-group",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2295982",
+      "name": "folder-locked",
+      "font_class": "folder-locked",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2295983",
+      "name": "folder-open",
+      "font_class": "folder-open",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "2295984",
+      "name": "folder-personal",
+      "font_class": "folder-personal",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2295985",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "2295987",
+      "name": "folder-share",
+      "font_class": "folder-share",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2295988",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2295989",
+      "name": "jpg",
+      "font_class": "jpg",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2295990",
+      "name": "mp3",
+      "font_class": "mp",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "2295991",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "2296006",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2296007",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "2296013",
+      "name": "ai",
+      "font_class": "ai",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "2298148",
+      "name": "gif",
+      "font_class": "gif",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
