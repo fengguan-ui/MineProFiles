@@ -1,0 +1,39 @@
+.ivu-page {
+    border: 1px dotted #e8eaec;
+    padding: 10px;
+    margin: 0;
+}
+
+.search-comp {
+    .seabg {
+        border: 1px dotted #e8eaec;
+        margin-bottom: 5px;
+
+        .seacon {
+            padding: 10px;
+            padding-right: 30px;
+
+            .ivu-form-item {
+                margin-bottom: 0;
+
+                .ivu-btn {
+                    margin-right: 8px;
+                }
+            }
+
+            .ivu-row {
+                margin-bottom: 8px;
+            }
+        }
+
+        .ivu-divider {
+            margin: 0;
+            padding-top: 5px;
+            font-size: 14px;
+        }
+    }
+}
+
+.ml_5 {
+    margin-left: 5px;
+}
